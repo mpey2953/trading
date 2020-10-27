@@ -4,9 +4,11 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/udacity)](https://github.com/mpey2953/udacity/commits/master)
 
-This repository contains a very simple binance fee simulator based on binance's official [fee schedule](https://www.binance.com/en/fee/schedule). It compares your maker & taker fees over a given timeframe compared to the next VIP level and indicates potential savings.
+This repository contains a very simple binance fee simulator based on binance's official [fee schedule](https://www.binance.com/en/fee/schedule). It compares your current maker & taker fees over a given timeframe compared to the next VIP level indicating potential savings opportunities.
 
 ## Contents
+
+to follow
 
 ## License
 [MIT License © mpey2953](/LICENSE.txt)
