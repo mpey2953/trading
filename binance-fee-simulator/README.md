@@ -8,7 +8,7 @@ This repository contains a very simple binance fee simulator based on binance's 
 ## Contents
 
 ## License
-[Modified MIT License © mpey2953](/LICENSE.txt)
+[MIT License © mpey2953](/LICENSE.txt)
 
 <p align="center">
 <i>Inspired by my work? Please consider <a href="https://paypal.me/mpey2953/5">donating</a>  💸 to help me continue!</i>
