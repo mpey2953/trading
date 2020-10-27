@@ -1,7 +1,7 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/udacity)](https://github.com/mpey2953/udacity/commits/master)
 
-# binance fee simulator
+# Trading: Binance Fee Simulator
 
 This repository contains a very simple binance fee simulator based on binance's official [fee schedule](https://www.binance.com/en/fee/schedule). It compares your maker & taker fees over a given timeframe compared to the next VIP level and indicates potential savings.
 
