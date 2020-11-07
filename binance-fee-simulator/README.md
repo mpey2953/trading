@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-[![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/udacity)](https://github.com/mpey2953/udacity/commits/master)
+[![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/udacity)](https://github.com/mpey2953/trading/commits/master)
 
 This repository contains a very simple binance fee simulator based on binance's official [fee schedule](https://www.binance.com/en/fee/schedule). It compares your current maker & taker fees over a given timeframe compared to the next VIP level, indicating potential saving opportunities.
 
